@@ -3,7 +3,6 @@
     padding: 0;
     margin: 0;
 }
-
 body {
     background-color: #d9dcd6;
 }
@@ -14,7 +13,6 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -31,16 +29,13 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
 .header nav ul {
     list-style-type: none;
 }
-
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 .nav-anchor {
     color: #ffffff;
     text-decoration: none;
@@ -85,7 +80,6 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 /* Benefits, aside section */
 .benefits {
     margin-right: 20px;
@@ -97,7 +91,6 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
 .benefit-block {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,13 +99,11 @@ body {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefit-block img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Footer */
 .footer {
     padding: 30px;
@@ -120,7 +111,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
     font-size: 20px;
 }
